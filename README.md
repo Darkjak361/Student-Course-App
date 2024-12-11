@@ -18,9 +18,9 @@ Git & GitHub
 
 How to get it to start.
 
-Backend: type "CD backend" in the terminal which will take you to the backend folder and then type in "node server.js" in the terminal to get the backend running.
+Backend: type "CD backend" in the terminal which will take you to the backend folder and then type in "npm install" and then type"node server.js" in the terminal to get the backend running.
 
-frontend: type "CD frontend" in the terminal which will take you to the frontend and then type in "npm start" in the terminal to boot up the frontend.
+frontend: type "CD frontend" in the terminal which will take you to the frontend and then type in "npm install" and then "npm start" in the terminal to boot up the frontend.
 
 
 git clone https://github.com/Darkjak361/Student-Course-App
